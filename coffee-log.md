@@ -25,3 +25,4 @@ A running log of cafes I work from in Europe, what I drank, and how they held up
 | 2026-04-14 | Coffee Collective (Copenhagen) | Cappuccino | €4.80 | 8 | 7 | Pillowy foam, 20-min wait, outlets are a bloodsport. |
 | 2026-04-15 | Prufrock Coffee (London) | Pour over (Ethiopia Guji) | €5.20 | 10 | 9 | Blueberry and jasmine. Quiet corner, fast wifi, best cup of the week. |
 | 2026-04-16 | Satan's Coffee Corner (Barcelona) | Flat white | €3.50 | 8 | 8 | Hidden behind a hotel lobby, courtyard seating, staff actually lets you linger. |
+| 2026-04-16 | Sey Coffee (Brooklyn) | Flat white | $5.50 | 9 | 7 | Airy room, serious roasters, loud espresso machine means no Zoom calls. |
